@@ -156,11 +156,15 @@ This will create a `dist/` folder containing your optimized frontend build.
 ---
 
 ## 🖼️ Preview
+## 🖼️ App Screenshots
 
-![Register](./screenshots/register-success.jpg)
-![Login](./screenshots/login-success.jpg)
-![Profile](./screenshots/profile-loaded.jpg)
-![Logout](./screenshots/logout.jpg)
+| Login Page | Registration | Login Success |
+|-------------|---------------|----------------|
+| ![Login](./Login%20Page.jpg) | ![Register](./Register.jpg) | ![Login Success](./Login.jpg) |
+
+| Profile Loaded | Logout | MongoDB Output |
+|----------------|---------|----------------|
+| ![Profile Loaded](./Profile%20Loaded.jpg) | ![Logout](./Logout%20Successfully.jpg) | ![MongoDB](./MongoDB%20Output.jpg) |
 
 
 ---
