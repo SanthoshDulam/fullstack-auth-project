@@ -157,11 +157,11 @@ This will create a `dist/` folder containing your optimized frontend build.
 
 ## 🖼️ Preview
 
-> 🧩 *Below: Example of working login/register flow connected to MongoDB Atlas*
+![Register](./screenshots/register-success.jpg)
+![Login](./screenshots/login-success.jpg)
+![Profile](./screenshots/profile-loaded.jpg)
+![Logout](./screenshots/logout.jpg)
 
-*(You can later upload a screenshot of your app UI here — it impresses recruiters instantly!)*
 
 ---
 
-Would you like me to generate a **project screenshot preview template** (like showing login + register + dashboard in one frame)?
-It’ll make your GitHub repo look stunning and professional.
