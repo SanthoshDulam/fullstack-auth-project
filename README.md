@@ -155,17 +155,20 @@ This will create a `dist/` folder containing your optimized frontend build.
 
 ---
 
-## 🖼️ Preview
-## 🖼️ App Screenshots
+---
 
-| Login Page | Registration | Login Success |
-|-------------|---------------|----------------|
-| ![Login](./Login%20Page.jpg) | ![Register](./Register.jpg) | ![Login Success](./Login.jpg) |
+## 🖼️ Screenshots & Demo
 
-| Profile Loaded | Logout | MongoDB Output |
-|----------------|---------|----------------|
-| ![Profile Loaded](./Profile%20Loaded.jpg) | ![Logout](./Logout%20Successfully.jpg) | ![MongoDB](./MongoDB%20Output.jpg) |
+Here’s a glimpse of the working authentication flow 🔐 — fully connected to MongoDB Atlas and deployed on Render.
 
+| Step | Screenshot | Description |
+|------|-------------|--------------|
+| 🪄 1 | ![Login Page](./screenshots/Login%20Page.jpg) | **Clean Login/Register interface** built with React (Vite). |
+| 🧑‍💻 2 | ![Register](./screenshots/Register.jpg) | User successfully registers — password is encrypted and stored securely. |
+| 🔓 3 | ![Login](./screenshots/Login.jpg) | User logs in using JWT-based authentication. |
+| 🧬 4 | ![Profile Loaded](./screenshots/Profile%20Loaded.jpg) | After login, profile details are fetched from a protected route `/api/profile`. |
+| 📤 5 | ![Logout Successfully](./screenshots/Logout%20Successfully.jpg) | Token removed from storage — session safely terminated. |
+| 💾 6 | ![MongoDB Output](./screenshots/MongoDB%20Output.jpg) | Actual MongoDB Atlas data — usernames stored with bcrypt-hashed passwords. |
 
 ---
 
