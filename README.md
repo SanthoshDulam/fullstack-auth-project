@@ -44,4 +44,17 @@ A complete authentication system built using **React (Vite)** for the frontend a
 ---
 
 ## 🗂 Folder Structure
-
+│
+├── client/ # React frontend
+│ ├── src/
+│ ├── .env
+│ ├── package.json
+│ └── ...
+│
+├── server/ # Express backend
+│ ├── server.js
+│ ├── userModel.js
+│ ├── .env
+│ └── package.json
+│
+└── README.md
