@@ -134,7 +134,7 @@ This will create a `dist/` folder containing your optimized frontend build.
 * 📊 Dashboard with activity tracking
 * 🧭 CI/CD automation using GitHub Actions
 
-
+---
 
 ### 🕓 Uptime & Reliability
 
