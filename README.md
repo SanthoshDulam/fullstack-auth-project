@@ -134,6 +134,13 @@ This will create a `dist/` folder containing your optimized frontend build.
 * 📊 Dashboard with activity tracking
 * 🧭 CI/CD automation using GitHub Actions
 
+
+
+### 🕓 Uptime & Reliability
+
+The backend service **[`https://fullstack-auth-project-7ipc.onrender.com`](https://fullstack-auth-project-7ipc.onrender.com)** is actively monitored and **kept awake 24/7 using [UptimeRobot](https://uptimerobot.com/)** to prevent cold starts.
+This ensures that the app remains **instantly accessible** during demos, interviews, and portfolio reviews — no waiting for the server to spin up! ⚡
+
 ---
 
 ## 🧑‍💻 Author
